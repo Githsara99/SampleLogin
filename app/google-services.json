@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932664413780",
+    "project_id": "sign-up-and-login-ca044",
+    "storage_bucket": "sign-up-and-login-ca044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932664413780:android:810b4e34276a0adc3627c1",
+        "android_client_info": {
+          "package_name": "com.example.signupandlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932664413780-naml86dq30o86ghhnuj9crc9mp65de91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7uuMudNytcu5GlVFH-URJNgWrJ9OtqM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932664413780-naml86dq30o86ghhnuj9crc9mp65de91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
